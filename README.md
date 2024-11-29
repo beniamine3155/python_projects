@@ -8,7 +8,7 @@ Welcome to my Python Projects repository! 🎉 This repository is dedicated to s
 
 ### ✅ Completed Projects
 
-- [https://github.com/beniamine3155/python_projects/tree/main/Quiz_Game] **Quiz Game**
+- [Quiz Game](https://github.com/beniamine3155/python_projects/tree/main/Quiz_Game)
 
 ---
 
