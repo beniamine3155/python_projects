@@ -8,7 +8,9 @@ Welcome to my Python Projects repository! 🎉 This repository is dedicated to s
 
 ### ✅ Completed Projects
 
-- [Quiz Game](https://github.com/beniamine3155/python_projects/tree/main/Quiz_Game)
+- [Rock Paper Scissors](https://github.com/beniamine3155/python_projects/blob/main/Rock_Paper_Scissors/README.md)
+
+- [Quiz Game](https://github.com/beniamine3155/python_projects/blob/main/Quiz_Game/README.md)
 
 ---
 
