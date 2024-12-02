@@ -8,11 +8,13 @@ Welcome to my Python Projects repository! 🎉 This repository is dedicated to s
 
 ### ✅ Completed Projects
 
-- [Password_Manager](https://github.com/beniamine3155/python_projects/blob/main/Password_Manager/README.md)
+- [Password_Manager](https://github.com/beniamine3155/python_projects/blob/main/Password_Manager)
 
-- [Quiz Game](https://github.com/beniamine3155/python_projects/blob/main/Quiz_Game/README.md)
+- [Timed Math Challange](https://github.com/beniamine3155/python_projects/blob/main/Timed_Math_Challange)
 
-- [Rock Paper Scissors](https://github.com/beniamine3155/python_projects/blob/main/Rock_Paper_Scissors/README.md)
+- [Rock Paper Scissors](https://github.com/beniamine3155/python_projects/blob/main/Rock_Paper_Scissors)
+
+- [Quiz Game](https://github.com/beniamine3155/python_projects/blob/main/Quiz_Game)
 
 ---
 
