@@ -14,6 +14,8 @@ Welcome to my Python Projects repository! 🎉 This repository is dedicated to s
 
 - [Rock Paper Scissors](https://github.com/beniamine3155/python_projects/blob/main/Rock_Paper_Scissors)
 
+- [Madlibs Generator](https://github.com/beniamine3155/python_projects/tree/main/Madlibs_Generator)
+
 - [Quiz Game](https://github.com/beniamine3155/python_projects/blob/main/Quiz_Game)
 
 ---
